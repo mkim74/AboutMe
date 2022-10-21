@@ -24,13 +24,13 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
         -My Life as a kid
         -How I ended up being who I am today
 
--[My Present](./MyPresent.md)
+-[My Present](https://mkim74.github.io/MyPresent/)
 
     -Includes things like:
         -Hobbies
         -How I spend my life in college
 
--[My Future](./MyFuture.md)
+-[My Future](https://mkim74.github.io/MyFuture/)
 
     -Includes things like:
         -What I want as a career
