@@ -4,5 +4,6 @@ permalink: /
 layout: default
 ---
 
-#Birth
+#HI
+[HOME](./index.md)
 
