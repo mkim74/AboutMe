@@ -17,3 +17,4 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 # Hello Everyone
 
+<img src="/IT-1000/IMG_3876.heic" alt="Me" style="width:128px;height:128px;">
