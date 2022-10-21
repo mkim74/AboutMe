@@ -17,7 +17,6 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 # Hello Everyone
 
-+ My Hobbies                + My Hobbies
-  - Music                       - Hi
-  - Sport
-  - School
+[Hi](./MyPast.md)
+
+
