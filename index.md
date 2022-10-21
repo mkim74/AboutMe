@@ -26,7 +26,17 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 -[My Present](./MyPresent.md)
 
+    -includes things like:
+        -Hobbies
+        -How I spend my life in college
+
 -[My Future](./MyFuture.md)
+
+    -includes things like:
+        -What I want as a career
+        -Plans as an adult
+
+#For More About Me
 
 ```
 Reach Me Via
