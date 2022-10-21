@@ -1,7 +1,6 @@
 ---
 title: "About Me"
 permalink: /
-layout: default
 ---
 
 # Final Project 
@@ -28,12 +27,5 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 <a href="MyPast.md">hegjiwnvwi</a>
 </p>
 
-::: warning
-*Reach Me Via:
-
-*Phone: 314-366-2478
-*Email: dmk10042002@gmail.com
-*Snapchat: dmk3371*
-:::
 
 
