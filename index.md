@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 permalink: /
+layout: default
 ---
 
 # Final Project 
