@@ -17,6 +17,8 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 # Hello Everyone
 
-[Hi](./MyPast.md)
+-[My Past](./MyPast.md)
 
+-[My Present](./MyPresent.md)
 
+-[My Future](./MyFuture.md)
