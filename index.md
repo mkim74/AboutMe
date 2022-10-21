@@ -6,7 +6,7 @@ layout: default
 
 # Final Project 
 
-**Description:** Create a personal site in markdown that is hosted on GitHub and provides information about you.
+**Description:** <span style="color:blue">Create a personal site in markdown that is hosted on GitHub and provides information about you.
 
 **Purpose:** This project provides experience working with markdown, Git/GitHub, and IT-related concepts and knowledge. As a future IT professional you will, at some time, need to create a web resource. This project and this module will provide you with an opportunity to build a web resource using one of many approaches. We will look at other approaches later in the course.
 
