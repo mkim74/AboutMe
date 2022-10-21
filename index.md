@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About Daniel Kim"
 permalink: /
 layout: default
 ---
@@ -19,28 +19,28 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 -[My Past](https://mkim74.github.io/MyPast/)
 
-    -includes things like:
+    -Includes things like:
         -Where/When I was born
         -My Life as a kid
         -How I ended up being who I am today
 
 -[My Present](./MyPresent.md)
 
-    -includes things like:
+    -Includes things like:
         -Hobbies
         -How I spend my life in college
 
 -[My Future](./MyFuture.md)
 
-    -includes things like:
+    -Includes things like:
         -What I want as a career
-        -Plans as an adult
+        -Plans for the future
 
 
 # For More About Me
 
 ```
-Reach Me Via
+Reach Me Via:
 -Phone: 314-366-2478
 -Email: dmk10042002@gmail.com
 -Snapchat: dmk3371
