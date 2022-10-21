@@ -17,3 +17,8 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 # Hello Everyone
 
+<div align="center">
+<img src="https://octodex.github.com/images/dunetocat.png" width="200">
+<p>This is some centered text.</p>
+</div>
+
