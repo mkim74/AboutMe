@@ -25,7 +25,7 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 
 <p style="font-size: 20px; color:#1F9AFE;">
-<a href="./MyPast.md">hegjiwnvwi</a>
+<a href="./MyPast.md">Link</a>
 </p>
 
 
