@@ -18,20 +18,16 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 # Hello Everyone
 
 -[My Past](./MyPast.md)
-
 -[My Present](./MyPresent.md)
-
 -[My Future](./MyFuture.md)
 
 
-
-
+<p style="font-size: 20px; color:#1F9AFE;">
+<a href="./MyPast.md">About this site</a>
+</p>
 
 
 ##Reach Me Via:
-
 *Phone: 314-366-2478
-
 *Email: dmk10042002@gmail.com
-
 *Snapchat: dmk3371
