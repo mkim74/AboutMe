@@ -23,10 +23,9 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 -[My Future](./MyFuture.md)
 
-
-<p style="font-size: 20px; color:#1F9AFE;">
-<a href="./MyPast.md">Link</a>
-</p>
+```
+Hi
+```
 
 
 
