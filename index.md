@@ -17,8 +17,8 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 # Hello Everyone
 
-<div align="center">
-<img src="https://octodex.github.com/images/dunetocat.png" width="200">
-<p>This is some centered text.</p>
+<div align="right">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/800px-Flag_of_South_Korea.svg.png" width="200">
+<p>Korean Flag</p>
 </div>
 
