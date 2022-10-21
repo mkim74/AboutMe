@@ -17,8 +17,7 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 # Hello Everyone
 
-+ My Hobbies
-  - Music:musical_note:
++ My Hobbies                + My Hobbies
+  - Music                       - Hi
   - Sport
   - School
-+ My Career
