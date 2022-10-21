@@ -4,7 +4,7 @@ permalink: /
 layout: default
 ---
 
-# Final Project 
+# Mid-Term Project 
 
 **Description:** <span style="color:red">Create a personal site in markdown that is hosted on GitHub and provides information about you.
 
