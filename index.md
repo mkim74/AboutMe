@@ -25,21 +25,15 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
 
 <p style="font-size: 20px; color:#1F9AFE;">
-<a href="MyPast.md">About this site</a>
+<a href="MyPast.md">hegjiwnvwi</a>
 </p>
 
-
-
-
-### Footnotes
-
-[^first]: ##Reach Me Via:
+::: warning
+*Reach Me Via:
 
 *Phone: 314-366-2478
-
 *Email: dmk10042002@gmail.com
-
-*Snapchat: dmk3371
-
+*Snapchat: dmk3371*
+:::
 
 
