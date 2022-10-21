@@ -24,7 +24,10 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 -[My Future](./MyFuture.md)
 
 ```
-Hi
+Reach Me Via
+-Phone: 314-366-2478
+-Email: dmk10042002@gmail.com
+-Snapchat: dmk3371
 ```
 
 
