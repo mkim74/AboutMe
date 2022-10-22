@@ -22,20 +22,20 @@ More information provided in [Canvas](https://umsystem.instructure.com/courses/1
 
     -Includes things like:
         -Where/When I was born
-        -My Life as a kid
+        -My Life as a **kid**
         -How I ended up being who I am today
 
 -[My Present](https://mkim74.github.io/MyPresent/)
 
     -Includes things like:
         -Hobbies
-        -How I spend my life in college student
+        -My life as a **college student**
 
 -[My Future](https://mkim74.github.io/MyFuture/)
 
     -Includes things like:
         -What I want as a career
-        -Plans as an adult
+        -My upcoming life as an **adult**
 
 
 # For More About Me
