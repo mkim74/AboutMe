@@ -47,5 +47,10 @@ Reach Me Via:
 -Snapchat: dmk3371
 ```
 
+###CREDITS
 
-
+[https://egillespie.github.io/markdown-only-website/](https://egillespie.github.io/markdown-only-website/)
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+[https://imagekit.io/blog/how-to-resize-image-in-html/](https://imagekit.io/blog/how-to-resize-image-in-html/)
+[https://www.tutorialspoint.com/How-to-set-font-color-in-HTML#:~:text=To%20set%20the%20font%20color,used%20to%20add%20font%20color.](https://www.tutorialspoint.com/How-to-set-font-color-in-HTML#:~:text=To%20set%20the%20font%20color,used%20to%20add%20font%20color.)
+[https://www.geeksforgeeks.org/how-to-align-image-in-html/#:~:text=We%20use%20align%20attribute,It%20is%20an%20inline%20element.&text=Attribute%20Values%3A,of%20image%20to%20the%20left.](https://www.geeksforgeeks.org/how-to-align-image-in-html/#:~:text=We%20use%20align%20attribute,It%20is%20an%20inline%20element.&text=Attribute%20Values%3A,of%20image%20to%20the%20left.)
