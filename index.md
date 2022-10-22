@@ -47,7 +47,7 @@ Reach Me Via:
 -Snapchat: dmk3371
 ```
 
-###CREDITS
+### CREDITS
 
 -[https://egillespie.github.io/markdown-only-website/](https://egillespie.github.io/markdown-only-website/)
 -[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
